@@ -1,4 +1,5 @@
-📑 README – Colección Postman Wompi
+ Colección Postman Wompi
+ 
 📌 Descripción
 
 Esta colección contiene pruebas automatizadas en Postman para validar la integración con la API de Wompi (sandbox).
